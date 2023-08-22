@@ -92,4 +92,4 @@ echo ""
 echo "The analyses provided by this script are now complete. Again, before you do anything, always check the internet to make sure you are not trying to remove something legitimate. To go further, I can only advise you to use the ckrootkit tool which will allow you to check for rootkits on your computer ( http://www.chkrootkit.org/ ). If you think you have been compromised, you can check your linux logs, here is a very detailed article on the subject: https://stackify.com/linux-logs/ .
 If you have found a user you don't know, you may be able to see the commands they have performed by logging into their account with su username, then running the history command."
 echo ""
-echo "Made with <3 by St4lW | https://cutt.ly/st4lwolf"
+echo "Made with <3 by St4lW | http://www.st4lwolf.org
