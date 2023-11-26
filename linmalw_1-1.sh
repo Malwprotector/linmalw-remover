@@ -1,5 +1,5 @@
 #This work is licensed under a CC BY-NC-SA 4.0 License.
-#The links in the 89th and 90th lines are not subject to the license, these links do not belong to me, they are just an external help for the user. 
+#The links in the 92th and 93th lines are not subject to the license, these links do not belong to me, they are just an external help for the user. 
 #Read it here: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 #!/bin/bash
