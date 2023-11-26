@@ -1,6 +1,7 @@
 # Linmalw-Remover
 
 Linmalw-Remover is a script designed to assist users in removing malicious software on Linux systems. This script executes several commands to gather system information, guide users to detect anomalies, and take appropriate measures against potential threats.
+![linmalw logo](https://raw.githubusercontent.com/Malwprotector/oass/main/img/logo.png)
 
 ## Instructions
 
@@ -12,9 +13,6 @@ Linmalw-Remover is a script designed to assist users in removing malicious softw
 
 4. Follow the prompts and instructions provided by the script to identify and neutralize potential threats.
 
-## Update 1.1 Changelog
-
-- Corrected various bugs.
 
 ## Usage Notes
 
@@ -26,10 +24,10 @@ Linmalw-Remover is a script designed to assist users in removing malicious softw
 
 Always verify suspicious findings or suggested actions before taking any steps. It is recommended to use additional tools such as `chkrootkit` (http://www.chkrootkit.org/) to check for rootkits and refer to Linux logs (https://stackify.com/linux-logs/) for comprehensive system analysis.
 
-## Credits
+## Update 1.1 Changelog
 
-This script was crafted with care by St4lW. Visit [St4lW's Website](https://www.st4lwolf.org) for more information.
+- Version 1.1 fixes some bugs.
 
-## License
-
-This work is licensed under a [CC BY-NC-SA 4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/). However, external links provided within the script are exempted from this license.
+---
+Made with <3 by [St4lW](https://www.st4lwolf.org)
+.
