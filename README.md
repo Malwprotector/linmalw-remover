@@ -1,4 +1,4 @@
-# Linmalw-Remover
+# Linux Malicious Software Remover
 
 Linmalw-Remover is a script designed to assist users in removing malicious software on Linux systems. This script executes several commands to gather system information, guide users to detect anomalies, and take appropriate measures against potential threats.
 
