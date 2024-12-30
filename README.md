@@ -30,5 +30,5 @@ Always verify suspicious findings or suggested actions before taking any steps. 
 - Version 1.1 fixes some bugs.
 
 ---
-Made with <3 by [St4lW](https://www.st4lwolf.org)
+Made with <3 by [me](https://www.st4lwolf.org)
 .
