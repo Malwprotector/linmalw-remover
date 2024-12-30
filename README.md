@@ -1,6 +1,6 @@
 # Linux Malicious Software Remover
 
-Linmalw-Remover is a script designed to assist users in removing malicious software on Linux systems. This script executes several commands to gather system information, guide users to detect anomalies, and take appropriate measures against potential threats.
+LMSR is a script designed to assist users in removing malicious software on Linux systems. This script executes several commands to gather system information, guide users to detect anomalies, and take appropriate measures against potential threats.
 
 ![linmalw logo](https://raw.githubusercontent.com/Malwprotector/linux-malicious-software-remover/main/img/linmalw-remover.png)
 
